@@ -1,1 +1,1 @@
-ifconfig >> /a.log
+ifconfig >> a.log

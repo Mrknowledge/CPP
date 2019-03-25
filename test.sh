@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ifconfig > a.log
+ifconfig > /root/a.log
 

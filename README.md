@@ -7,4 +7,5 @@ I do not consider myself a programmer. I create these little programs as experim
 These scripts contain important functions which help reduce human workload. Code documentation is aligned correctly when the files are viewed in Notepad++.
 
 gzip - Demo for gzip usage.
+
 regex - Demo for regex usage.
